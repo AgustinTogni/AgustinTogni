@@ -6,14 +6,15 @@ Soy un tester apasionado por la calidad y la programación. Me considero muy res
 ## 🛠️ Tecnologías y Herramientas
 Estas son las herramientas y tecnologías que utilicé para desarrollar los proyectos destacados:
 - **Lenguajes de Programación:** HTML, CSS, JavaScript y Java
-- **Frameworks:** Spring
+- **Frameworks:** Spring y Selenium
 - **Bases de Datos:** MySQL
-- **IDEs:** Visual Studio Code y IntelliJ IDEA
+- **IDEs:** Visual Studio Code, Eclipse e IntelliJ IDEA
 
 ## 📈 Proyectos Destacados
 - **[CoderHouseJavaScript](https://github.com/AgustinTogni/CoderHouseJavaScript)**
 - **[CoderHouseSQL](https://github.com/AgustinTogni/CoderHouseSQL)**
 - **[CoderHouseJava](https://gitlab.com/AgustinTogni/coderhousejava)**
+- **[EducacionITSelenium](https://gitlab.com/AgustinTogni/educacionitselenium)**
 
 ## 🌍 Más información sobre mí
 - **GitLab:** [Agustín Gonzalo Togni Balassi](https://gitlab.com/AgustinTogni)
